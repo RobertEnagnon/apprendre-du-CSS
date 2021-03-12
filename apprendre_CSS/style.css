@@ -1,6 +1,40 @@
-p:last-of-type{
-	color:green
+@font-face{
+	font-family:'ronasdev';
+	src:url("fonts/AkayaTelivigala-Regular.ttf")
 }
+
+.paragraphe{
+	font-family:'ronasdev' ;
+	font-style:italic;
+	font-weight:900;
+	text-decoration:none;
+	
+	text-align: center;
+	
+}
+#programmation{
+	text-align:justify;
+}
+.img-flotte{
+	float:left;
+	
+	
+	margin-right:20px;
+}
+.paragraphe{
+	
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
